@@ -1,0 +1,4 @@
+exportPattern("^[[:alpha:]]+")
+importFrom(stats, aggregate)
+importFrom(psychTools,dfOrder)
+importFrom(CircNNTSR,mnntsloglik)
